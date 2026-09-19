@@ -1,0 +1,1 @@
+# predicao_sintese_binarios
